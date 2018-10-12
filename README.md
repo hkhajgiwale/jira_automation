@@ -1,5 +1,5 @@
 # jira_automation
-Repository to update the interact with Jira using CLI
+Repository to the interact with Jira using CLI
 
 # Introduction
 
