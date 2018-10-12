@@ -40,4 +40,4 @@ I am working on following improvements as of now
 
 
 ## Authors
- **Harsh Khajgiwale**
+ **Harsh Khajgiwale** [harsh.khajiwale@gmail.com](harsh.khajiwale@gmail.com)
