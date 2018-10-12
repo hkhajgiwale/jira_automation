@@ -16,7 +16,7 @@ pip install jira
 
 # Usage
 
-First things first. The login needs to be done using basic authentication mechanism. So you need to update the credentials.txt with your respective email id, password and JIRA Link. File usage is as under:
+First things first. The login needs to be done using basic authentication mechanism. So you need to update the credentials.txt with your respective email id, password and JIRA Link. This is completely interactive so you would get the easily get through it. File usage is as under:
 
 1. Change the name of the assignee
 ```
