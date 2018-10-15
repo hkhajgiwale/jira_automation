@@ -23,4 +23,4 @@ python change_ticket_status.py -f credentials.txt
 
 
 ## Authors
- **Harsh Khajgiwale** [harsh.khajiwale@gmail.com](harsh.khajiwale@gmail.com)
+ **Harsh Khajgiwale** [harsh.khajgiwale@gmail.com](harsh.khajiwale@gmail.com)
